@@ -45,9 +45,9 @@ const stickerImages = [
   "WhatsApp Image 2026-07-31 at 2.25.15 AM.jpeg",
   "WhatsApp Image 2026-07-31 at 2.25.18 AM.jpeg",
   "WhatsApp Image 2026-07-31 at 2.54.29 AM (1).jpeg",
-  "WhatsApp Image 2026-07-31 at 2.54.29 AM.jpeg",
+  "WhatsApp Image 2026-07-31 at 5.23.26 AM.jpeg",
   "WhatsApp Image 2026-07-31 at 2.54.30 AM.jpeg",
-  "WhatsApp Image 2026-07-31 at 4.04.29 AM.jpeg"
+  "WhatsApp Image 2026-07-31 at 4.04.29 AM (1).jpeg"
 ];
 
 // متغيرات زوايا ورؤية الكاميرا
